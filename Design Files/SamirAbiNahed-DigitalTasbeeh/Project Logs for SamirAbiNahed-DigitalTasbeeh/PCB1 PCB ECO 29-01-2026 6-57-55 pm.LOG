@@ -1,0 +1,64 @@
+Added Component: Designator=U?(14-VSON (4x3))
+Add component (AddParameter): Name = "Case/Package"; Value = "VSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2026/tps63021-2026362.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2026/tps63021-2026362.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2026/tps63021-2026361.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2026/tps63021-2026361.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2026/tps63021-2026363.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2026/tps63021-2026363.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/3221/tps63020-3221510.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/3221/tps63020-3221510.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Efficiency"; Value = "96%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C202140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS63021DSJR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=2.63, 10=1.96, 50=1.8, 100=1.61, 1000=1.43, 10000=1.35 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "2.4MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR3_1 Pin=U1-20
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=U1-15
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=U1-16
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=U1-17
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=U1-18
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-13
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-10
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U1-14
+Added Net: Name=NetR9_2
+Added Member To Class: ClassName=Sheet1 Member=Component R7 100R
+Added Member To Class: ClassName=Sheet1 Member=Component U? TPS63021DSJR

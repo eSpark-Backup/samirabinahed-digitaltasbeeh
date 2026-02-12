@@ -1,0 +1,9 @@
+Added Component: Designator=J?(MY-2032-02)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Battery-Connectors_MYOUNG-MY-2032-02_C964822.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Battery Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C964822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MYOUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MY-2032-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Member=Component J? MY-2032-10-R

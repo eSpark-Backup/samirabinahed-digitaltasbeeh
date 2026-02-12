@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Member From Class: ClassName=Power Member=R15
+Added Component: Designator=*(MY-927-03)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2979171"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing Part Number"; Value = "MY-927-03"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=NetC1_2 Pin=*-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Change Net Name : Old Net Name=NetC1_2 New Net Name=Net*_3
+Added Member To Class: ClassName=Power Member=Component * MY-927-03

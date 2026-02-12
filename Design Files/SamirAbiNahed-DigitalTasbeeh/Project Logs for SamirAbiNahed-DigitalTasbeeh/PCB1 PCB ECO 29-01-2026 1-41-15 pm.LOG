@@ -1,0 +1,9 @@
+Added Component: Designator=U?(20-VQFN (3x3))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_Microchip-Tech-ATTINY1616-MNR_C507118.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C507118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ATTINY1616-MNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-20-EP(3x3)"; VariantName = "[No Variations]"
+Added Class: Name=Sheet1

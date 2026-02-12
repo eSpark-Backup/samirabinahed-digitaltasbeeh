@@ -1,0 +1,12 @@
+Added Component: Designator=J?(MY-1220-03)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Battery-Connectors_MYOUNG-MY-1220-03_C964818.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Coin Cell Holder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C964818"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MYOUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MY-1220-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=J?-1
+Added Pin To Net: NetName=NetC1_2 Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Member To Class: ClassName=Power Member=Component J? MY-1220-03

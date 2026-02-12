@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J? Old Footprint=MY-1220-03 New Footprint=MY-2032-10-R
+Change Component Comment : Designator=J? Old Comment=MY-1220-03 New Comment=MY-2032-10-R
+Change component parameters: Designator = "J?" ("J?"); Footprint = "MY-1220-03"; UniqueID = "\IGGHVSEA" ("\IGGHVSEA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Battery-Connectors_MYOUNG-MY-2032-10-R_C964828.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Battery Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C964828"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MYOUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MY-2032-10-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"

@@ -1,0 +1,5 @@
+Added Component: Designator=TP?(2 Test Pad)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2 Test Pad"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Member=Component C1 10uF
+Added Member To Class: ClassName=MCU Member=Component TP? 2 Test Pad

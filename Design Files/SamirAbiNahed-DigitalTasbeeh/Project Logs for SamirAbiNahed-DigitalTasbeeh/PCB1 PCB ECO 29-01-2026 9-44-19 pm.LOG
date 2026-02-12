@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=J?-1
+Removed Pin From Net: NetName=NetC1_2 Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=J?-3
+Change Component Footprint: Designator=J? Old Footprint=MY-2032-02 New Footprint=MY-1220-03
+Change Component Comment : Designator=J? Old Comment=MY-2032-02 New Comment=MY-1220-03
+Change component parameters: Designator = "J?" ("J?"); Footprint = "MY-2032-02"; UniqueID = "\BGYLQZCJ" ("\BGYLQZCJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Battery-Connectors_MYOUNG-MY-1220-03_C964818.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Coin Cell Holder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C964818"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MYOUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MY-1220-03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"

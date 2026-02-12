@@ -1,0 +1,7 @@
+Added Component: Designator=*(MY-927-03)
+Add component (AddParameter): Name = "LCSC Part Nuber"; Value = "C238098"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=V_BAT Pin=*-3
+Added Member To Class: ClassName=Power Member=Component * 3001

@@ -1,0 +1,19 @@
+Added Component: Designator=U2(IC_TPS63900DSKR)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C1518762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS63900DSKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "WSON-10 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS63900DSKR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR12_2 Pin=U2-1
+Added Pin To Net: NetName=NetR12_2 Pin=U2-2
+Added Pin To Net: NetName=NetR13_2 Pin=U2-3
+Added Pin To Net: NetName=NetR14_2 Pin=U2-4
+Added Pin To Net: NetName=NetR15_2 Pin=U2-5
+Added Pin To Net: NetName=NetC3_2 Pin=U2-6
+Added Pin To Net: NetName=NetL1_2 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetL1_1 Pin=U2-9
+Added Pin To Net: NetName=NetC1_2 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Member To Class: ClassName=Power Member=Component U2 TPS63900DSKR

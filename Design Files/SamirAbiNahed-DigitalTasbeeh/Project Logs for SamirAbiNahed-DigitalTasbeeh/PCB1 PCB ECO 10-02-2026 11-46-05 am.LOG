@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=S?-1
+Removed Pin From Net: NetName=NetR12_1 Pin=S?-2
+Removed Member From Class: ClassName=MCU Member=S?
+Change Component Comment : Designator=* Old Comment=MY-927-03 New Comment=3001
+Change component parameters: Designator = "*" ("*"); Footprint = "MY-927-03"; UniqueID = "\GAMIDTNE" ("\GAMIDTNE")
+Change component parameters (AddParameter): Name = "LCSC Part Nuber"; Value = "C238098"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "3001"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(EVQPLH_PAN)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C79172"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EVQPLHA15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=NetR12_1 Pin=SW?-3
+Added Pin To Net: NetName=NetR12_1 Pin=SW?-4
+Added Member To Class: ClassName=MCU Member=Component SW? EVQ-PLHA15
