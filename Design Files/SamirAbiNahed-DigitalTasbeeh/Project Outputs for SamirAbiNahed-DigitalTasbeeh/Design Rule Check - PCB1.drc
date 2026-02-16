@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\embedded Designers\SamirAbiNahed-DigitalTasbeeh PRD\PCB\SamirAbiNahed-DigitalTasbeeh\PCB1.PcbDoc
-Date     : 12/02/2026
-Time     : 5:49:47 pm
+PCB File : D:\embedded Designers\LocAl\SamirAbiNahed-DigitalTasbeeh\PCB\SamirAbiNahed-DigitalTasbeeh\PCB1.PcbDoc
+Date     : 16/02/2026
+Time     : 11:16:46 am
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -48,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
