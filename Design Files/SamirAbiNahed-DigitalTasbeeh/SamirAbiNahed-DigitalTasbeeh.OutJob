@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\embedded Designers\SamirAbiNahed-DigitalTasbeeh PRD\PCB\SamirAbiNahed-DigitalTasbeeh\.PDF
+OutputFilePath2=D:\embedded Designers\LocAl\SamirAbiNahed-DigitalTasbeeh\PCB\SamirAbiNahed-DigitalTasbeeh\Deliverables\Schematic\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\embedded Designers\SamirAbiNahed-DigitalTasbeeh PRD\PCB\SamirAbiNahed-DigitalTasbeeh\
+OutputBasePath2=D:\embedded Designers\LocAl\SamirAbiNahed-DigitalTasbeeh\PCB\SamirAbiNahed-DigitalTasbeeh\Deliverables\Schematic\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\embedded Designers\SamirAbiNahed-DigitalTasbeeh PRD\PCB\SamirAbiNahed-DigitalTasbeeh\.PDF
+RelativeOutputPath2=D:\embedded Designers\LocAl\SamirAbiNahed-DigitalTasbeeh\PCB\SamirAbiNahed-DigitalTasbeeh\Deliverables\Schematic\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

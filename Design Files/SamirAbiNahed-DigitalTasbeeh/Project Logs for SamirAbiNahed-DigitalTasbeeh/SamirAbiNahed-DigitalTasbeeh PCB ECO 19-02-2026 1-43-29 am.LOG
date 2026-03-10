@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Added Component: Designator=BT1(BAT_120TR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C5354946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "120TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "120TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-N
+Added Pin To Net: NetName=V_BAT Pin=BT1-P
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ2_3
+Added Member To Class: ClassName=Power Member=Component BT1 120TR
+Added Member To Class: ClassName=MCU Member=Component J1 Test Pad SMD 3 Pin

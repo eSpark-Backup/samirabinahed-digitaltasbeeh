@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SamirAbiNahed-DigitalTasbeeh.PrjPcb]
+   Generated File[SamirAbiNahed-DigitalTasbeeh.TXT]
+   Generated File[SamirAbiNahed-DigitalTasbeeh.LDP]
+   Generated File[SamirAbiNahed-DigitalTasbeeh.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:16:57 am On 11/03/2026

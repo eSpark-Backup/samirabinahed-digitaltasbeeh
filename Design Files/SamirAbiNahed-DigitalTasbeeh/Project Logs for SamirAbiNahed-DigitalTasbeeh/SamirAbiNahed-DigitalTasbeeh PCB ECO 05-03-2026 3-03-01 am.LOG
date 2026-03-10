@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D1 Old Footprint=SOD-123FL New Footprint=SMA
+Change Component Comment : Designator=D1 Old Comment=SMF3.3 New Comment=SS24A
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOD-123FL"; UniqueID = "\ORRADWTC" ("\ORRADWTC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Guangdong-Hottech-SS24A_C2886579.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2886579"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Guangdong Hottech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SS24A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
