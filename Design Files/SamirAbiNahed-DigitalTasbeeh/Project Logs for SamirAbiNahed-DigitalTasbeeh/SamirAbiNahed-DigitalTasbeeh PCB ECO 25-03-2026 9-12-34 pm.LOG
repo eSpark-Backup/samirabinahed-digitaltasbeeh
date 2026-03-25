@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=NetR12_1 Pin=SW1-3
+Removed Pin From Net: NetName=NetR12_1 Pin=SW1-4
+Removed Member From Class: ClassName=MCU Member=SW1
+Change Component Comment : Designator=R14 Old Comment=20K New Comment=20.5k
+Change component parameters: Designator = "R14" ("R14"); Footprint = "Res-0201"; UniqueID = "\VFGBQWAM" ("\VFGBQWAM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMD1003TEE_C778396.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C226462"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0201FR-0720K5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SMT_FS)
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C778172"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "G-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GT-TC084A-H015-L5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR12_1 Pin=R18-2
+Added Pin To Net: NetName=NetR12_1 Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetR12_1 Pin=U2-3
+Added Pin To Net: NetName=NetR12_1 Pin=U2-4
+Added Member To Class: ClassName=MCU Member=Component U2 GT-TC084A-H015-L5

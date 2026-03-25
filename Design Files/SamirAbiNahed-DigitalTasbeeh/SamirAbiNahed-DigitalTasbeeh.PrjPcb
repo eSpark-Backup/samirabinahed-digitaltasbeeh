@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Deliverables\Gerber Files\Gerber File.Cam
+DocumentPath=Deliverables\Assembly Drawings\SamirAbiNahed-DigitalTasbeeh.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,10 +132,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MOSADPZP
 
 [Document6]
-DocumentPath=Deliverables\Gerber Files\NC Drill File.Cam
+DocumentPath=Deliverables\Gerber Files\Gerber Files.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=Deliverables\Assembly Drawings\SamirAbiNahed-DigitalTasbeeh.PCBDwf
+DocumentPath=Deliverables\Gerber Files\NC Drill Files.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -166,7 +166,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KCAPBRSV
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SamirAbiNahed-DigitalTasbeeh\Design Rule Check - PCB1.html

@@ -1,20 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [SamirAbiNahed-DigitalTasbeeh.PrjPcb]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.GTO]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.GTP]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.GTS]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.GTL]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.GBL]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.GBS]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.GBP]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.GBO]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.GM]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.EXTREP]
-   Generated File[SamirAbiNahed-DigitalTasbeeh.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SamirAbiNahed-DigitalTasbeeh.PrjPcb]
+   Generated File[SamirAbiNahed-DigitalTasbeeh.TXT]
+   Generated File[SamirAbiNahed-DigitalTasbeeh.LDP]
+   Generated File[SamirAbiNahed-DigitalTasbeeh.DRR]
 
 
-Files Generated   : 11
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 5:14:14 pm On 18/03/2026
+Finished Output Generation At 9:49:09 pm On 25/03/2026
